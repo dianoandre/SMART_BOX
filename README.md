@@ -34,6 +34,19 @@ For a concise component list, see [README_COMPONENTS.md](README_COMPONENTS.md).
 - Third-party libraries: [lib](lib) (Particle-style layout)
 - Firmware binaries (ignored by git): [firmware](firmware)
 
+## 3D Model
+
+The enclosure was modeled in 3D by the author, including pill compartments shaped as a slide to make pill pickup easier. Exported STL files are available in [cad](cad):
+
+- [cad/Sopra.stl](cad/Sopra.stl)
+- [cad/Sotto.stl](cad/Sotto.stl)
+
+## Project Media
+
+![Smart Box prototype](media/smart-box.png)
+
+Simulation video: [smart-box-simulation.mp4](media/smart-box-simulation.mp4)
+
 ## Logic Summary
 
 The firmware implements a lightweight state machine:

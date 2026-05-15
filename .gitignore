@@ -68,3 +68,7 @@ Thumbs.db
 !.github/workflows/
 !.github/workflows/*.yml
 !.github/workflows/*.yaml
+!media/
+!media/**
+!cad/
+!cad/**
