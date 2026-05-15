@@ -89,4 +89,4 @@ Andrea Diano (IoT Frameworks project)
 
 ## License
 
-MIT (add a LICENSE file if you want it shown on GitHub).
+MIT
