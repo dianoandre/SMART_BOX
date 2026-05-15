@@ -32,7 +32,6 @@ For a concise component list, see [README_COMPONENTS.md](README_COMPONENTS.md).
 
 - Entry point: [src/main.cpp](src/main.cpp)
 - Third-party libraries: [lib](lib) (Particle-style layout)
-- Firmware binaries (ignored by git): [firmware](firmware)
 
 ## 3D Model
 
